@@ -23,7 +23,7 @@ Group Contribution:
 
 Richie Nguyen:
 
-Wilson Huang:
+Wilson Huang: Created the high level architecture design.
 
 Danny Nguyen:
 
