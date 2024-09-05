@@ -1,0 +1,30 @@
+1. Initial Thoughts
+
+We aim to provide users with the ability to register and log in using the necessary credentials. Volunteers will 
+be able to create personalized profiles that include details such as location, skills, preferences, and availability. 
+They will also receive notifications from the web application about upcoming events and have the option to view 
+their participation history and performance. Administrators, on the other hand, will have the capability to create 
+and manage new events. The core features of this application include a login/registration system, profile and 
+event management, a matchmaking system to pair volunteers with events, a notification system, and a section for 
+users to review their volunteering history. The tech stack chosen for this application includes React for the 
+frontend, Express for the backend, and MongoDB for the database.
+
+2. Development Methodology
+
+I would use Agile for developing this app. Agile lets us build the app step by step, making it easy to adjust if the
+non-profit's needs change. By working closely with the client, we can ensure the app matches their goals and get 
+feedback regularly. This approach also allows us to release important features quickly, so the non-profit can start 
+using the app sooner. Overall, Agile offers the flexibility and collaboration needed to create an app that truly helps 
+manage and optimize volunteer activities.
+
+3. (refer to JPG file)
+
+Group Contribution:
+
+Richie Nguyen:
+
+Wilson Huang:
+
+Danny Nguyen:
+
+Vincent Chen:
